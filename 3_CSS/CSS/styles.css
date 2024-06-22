@@ -1,0 +1,31 @@
+/* 4- External */
+h3 {
+    color: yellow;
+}
+body {
+    padding-bottom: 500px;
+}
+p {
+    color: purple;
+}
+/* CLASSE */
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    padding: 5px;
+}
+/* id */
+#exclusive-title {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+}
+h2 {
+    border-bottom: 2px solid red;
+}
+.titulo {
+    border-bottom: 3px solid blue ;
+}
+#algum-texto {
+    border-bottom: 2px solid green;
+}
